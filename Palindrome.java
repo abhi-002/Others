@@ -19,9 +19,9 @@ public class Palindrom
 			n = n / 10;
 		}
 		if(res == m)
-			System.out.println("Palindrom:");
+			System.out.println("Palindrom:-");
 		else
-			System.out.println("Not Palindrome:");
+			System.out.println("Not Palindrome:-");
 	}
 
 }
